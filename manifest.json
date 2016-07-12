@@ -1,0 +1,16 @@
+{
+	  "name": "Chrome Template",
+	  "description": "template for extension triggered by button",
+	  "version": "0.1",
+	  "permissions": [
+	    "activeTab"
+	  ],
+	  "background": {
+	    "scripts": ["background.js"],
+	    "persistent": false
+	  },
+	  "browser_action": {
+	    "default_title": "Map to diffusion"
+	  },
+	  "manifest_version": 2
+	}
