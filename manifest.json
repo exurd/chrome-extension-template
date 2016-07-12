@@ -10,7 +10,7 @@
 	    "persistent": false
 	  },
 	  "browser_action": {
-	    "default_title": "Map to diffusion"
+	    "default_title": "template extension"
 	  },
 	  "manifest_version": 2
 	}
