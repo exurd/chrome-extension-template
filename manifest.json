@@ -1,7 +1,7 @@
 {
-	  "name": "Chrome Template",
-	  "description": "template for extension triggered by button",
-	  "version": "0.1",
+	  "name": "what",
+	  "description": "?",
+	  "version": "0118.999.881.999.119.725.3",
 	  "permissions": [
 	    "activeTab"
 	  ],
@@ -10,7 +10,7 @@
 	    "persistent": false
 	  },
 	  "browser_action": {
-	    "default_title": "template extension"
+	    "default_title": "what"
 	  },
 	  "manifest_version": 2
 	}
