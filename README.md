@@ -1,2 +1,3 @@
-# chrome-extension-template
-Template for an extension that triggers when you click the button next to the omnibox
+# what?
+
+'what' is a website and chrome extension, and redirects you to random website.
