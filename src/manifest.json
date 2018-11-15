@@ -1,7 +1,7 @@
 {
 	  "name": "what",
 	  "description": "?",
-	  "version": "0118.999.881.999.119.725.3",
+	  "version": "6.9",
 	  "permissions": [
 	    "activeTab"
 	  ],
